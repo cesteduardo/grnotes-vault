@@ -1,0 +1,7 @@
+# GRNotes — o índice e os caches são reconstruíveis; não versionar.
+.app/index.db
+.app/index.db-wal
+.app/index.db-shm
+.app/cache/
+.app/temp/
+.DS_Store

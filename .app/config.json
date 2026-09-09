@@ -1,0 +1,23 @@
+{
+  "appearance": {
+    "theme": "light"
+  },
+  "editor": {
+    "font": "Inter",
+    "fontSize": 16,
+    "lineHeight": 1.7,
+    "maxWidth": 720,
+    "spellcheck": true
+  },
+  "favorites": [],
+  "git": {
+    "autoSync": false,
+    "branch": "main",
+    "enabled": false,
+    "intervalMinutes": 5,
+    "syncOnClose": false,
+    "syncOnOpen": false
+  },
+  "recents": [],
+  "version": 1
+}
