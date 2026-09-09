@@ -11,12 +11,12 @@
   },
   "favorites": [],
   "git": {
-    "autoSync": false,
+    "autoSync": true,
     "branch": "main",
-    "enabled": false,
+    "enabled": true,
     "intervalMinutes": 5,
-    "syncOnClose": false,
-    "syncOnOpen": false
+    "syncOnClose": true,
+    "syncOnOpen": true
   },
   "recents": [],
   "version": 1
