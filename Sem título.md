@@ -1,4 +1,4 @@
-
+# Site e Planilhas -> Victor
 Fernanda Fioroto
 https://drafernandafioroto.com.br/harmonizacao-orofacial/ - Primeira LP
 https://drafernandafioroto.com.br/home/ - Compacta
@@ -20,3 +20,15 @@ Raquel Fialeki
 https://raquelfialeki.com.br/home/ - Primeira LP
 https://raquelfialeki.com.br/otoslim/ - Compacta
 Planilha: https://docs.google.com/spreadsheets/d/1DpcvqLQXHjphoV6VFLp61yqywSvuFDvatDk0CS_i
+
+Geovana Camargo
+https://xn--geovanacamargoclnica-44b.com.br/beleza/ - Primeira LP
+https://xn--geovanacamargoclnica-44b.com.br/home/ - Compacta
+https://xn--geovanacamargoclnica-44b.com.br/form/ - Form
+Ela se não me engano foi para o Soliah (confirma com o Miruel)
+
+Ana Laura -> Ainda não tenho nada
+Raissa -> Ainda não tenho nada
+Villa Calui -> Ainda não tenho nada
+
+Safra Brasil -> estou terminando o site (estou com uns 70% dele)
