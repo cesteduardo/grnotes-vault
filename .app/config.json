@@ -9,7 +9,9 @@
     "maxWidth": 720,
     "spellcheck": true
   },
-  "favorites": [],
+  "favorites": [
+    "Sem título.md"
+  ],
   "git": {
     "autoSync": true,
     "branch": "main",
