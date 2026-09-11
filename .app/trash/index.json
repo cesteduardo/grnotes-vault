@@ -1,9 +1,16 @@
 [
   {
-    "id": "1789047779264400058",
-    "name": "Inbox",
-    "original_rel": "Inbox",
-    "deleted_at": 1789047779,
-    "dir": true
+    "id": "1789142791967775116",
+    "name": "2026-09-11-1306.md",
+    "original_rel": "Inbox/2026-09-11-1306.md",
+    "deleted_at": 1789142791,
+    "dir": false
+  },
+  {
+    "id": "1789142794811227967",
+    "name": "2026-09-10.md",
+    "original_rel": "Daily/2026-09-10.md",
+    "deleted_at": 1789142794,
+    "dir": false
   }
 ]
